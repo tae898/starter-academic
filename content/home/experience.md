@@ -17,28 +17,23 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Computer Vision Engineer"
+  company = "Nect GmbH"
+  company_url = "https://nect.com/"
+  location = "Hamburg, Germany"
+  date_start = "2018-11-01"
+  date_end = "2020-09-15"
+  description = """Used deep learning ideas (mostly computer vision related). Built and maintained code."""
 
+
+[[experience]]
+  title = "Master Degree Student"
+  company = "ABB"
+  company_url = "https://global.abb/group/en"
+  location = "Ladenburg, Baden-Württemberg, Germany"
+  date_start = "2018-01-01"
+  date_end = "2018-09-30"
+  description = """Applied robot vision with a RGBD camera. Wrote master thesis "One Shot Learning for Object Recognition in Pick and Insert Applications" in collaboration with Hamburg University of Technology."""
 +++
