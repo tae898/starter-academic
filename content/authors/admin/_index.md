@@ -70,4 +70,4 @@ email: ""
 # - Visitors
 ---
 
-Taewoon Kim is a PhD researcher at [CLTL](http://www.cltl.nl/) and [The Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/). He's supervised by [Piek Vossen](https://en.wikipedia.org/wiki/Piek_Vossen). He believes in the future where human and machine intelligence complement each other.
+I am a PhD researcher at [CLTL](http://www.cltl.nl/) and [The Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/). I'm supervised by [Piek Vossen](https://en.wikipedia.org/wiki/Piek_Vossen). I believe in the future where human and machine intelligence complement each other.
