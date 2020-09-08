@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Researcher
+role: AI engineer
 
 # Organizations/Affiliations
-organizations:
-- name: Vrije Universiteit Amsterdam
-  url: "https://www.vu.nl/en/"
+# organizations:
+# - name: Vrije Universiteit Amsterdam
+#   url: "https://www.vu.nl/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: AI Researcher.
@@ -50,19 +50,23 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/tae898/
+  link: https://www.linkedin.com/in/tae898
 - icon: github
   icon_pack: fab
   link: https://github.com/tae898
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/c/TaewoonKim/
+  link: http://youtube.com/c/tae898
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/taetheaiengineer/
+- icon: reddit
+  icon_pack: fab
+  link: https://www.reddit.com/user/tae898
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tae898
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -77,4 +81,4 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD researcher at [CLTL](http://www.cltl.nl/) and [The Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/). I'm supervised by [Piek Vossen](https://en.wikipedia.org/wiki/Piek_Vossen). I believe in the future where human and machine intelligence complement each other.
+I'm an AI engineer. As someone said, I also do believe that AI is the new electricity. I'm currently doing my PhD at [CLTL](http://www.cltl.nl/) and [The Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/). I believe in the future where human and machine intelligence complement each other.
