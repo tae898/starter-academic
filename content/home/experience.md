@@ -21,11 +21,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Artificial Intelligence Researcher"
   company = "Vrije Universiteit Amsterdam"
-  company_url = "http://www.cltl.nl/"
   location = "Amsterdam, Netherlands"
   date_start = "2020-09-22"
   date_end = "2024-09-21"
-  description = """Research in Communicative Robots, Language Grounding, End-to-End Deep Learning, etc."""
+  description = """I'm part of [the Computational Lexicology & Terminology Lab](http://www.cltl.nl/) and [the Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/)."""
 
 [[experience]]
   title = "Computer Vision Engineer"
