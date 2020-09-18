@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: AI engineer
+role: Artificial Intelligence Engineer
 
 # Organizations/Affiliations
 # organizations:
@@ -18,7 +18,7 @@ role: AI engineer
 #   url: "https://www.vu.nl/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: AI Researcher.
+bio: Artificial Intelligence Engineer
 
 interests:
 - Communicative Robots
