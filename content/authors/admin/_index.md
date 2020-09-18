@@ -59,7 +59,7 @@ social:
   link: http://youtube.com/c/tae898
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/taetheaiengineer/
+  link: https://www.instagram.com/tae898/
 - icon: reddit
   icon_pack: fab
   link: https://www.reddit.com/user/tae898
