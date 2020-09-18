@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Artificial Intelligence Researcher"
+  company = "Vrije Universiteit Amsterdam"
+  company_url = "http://www.cltl.nl/"
+  location = "Amsterdam, Netherlands"
+  date_start = "2020-09-22"
+  date_end = "2024-09-21"
+  description = """Research in Communicative Robots, Language Grounding, End-to-End Deep Learning, etc."""
+
+[[experience]]
   title = "Computer Vision Engineer"
   company = "Nect GmbH"
   company_url = "https://nect.com/"

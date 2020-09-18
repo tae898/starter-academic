@@ -21,9 +21,9 @@ role: AI engineer
 bio: AI Researcher.
 
 interests:
-- Deep Learning
-- NLP
-- Computer Vision
+- Communicative Robots
+- Language Grounding
+- End-to-End Deep Learning
 
 education:
   courses:
@@ -78,7 +78,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 # user_groups:
 # - Researchers
-# - Visitors
+# - Visitors`
 ---
 
-I'm an AI engineer. As someone said, I also do believe that AI is the new electricity. I'm currently doing my PhD at [CLTL](http://www.cltl.nl/) and [The Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/). I believe in the future where human and machine intelligence complement each other.
+I'm an Artificial Intelligence Engineer. As someone said, I also believe that Artificial Intelligence is the new electricity. I believe in the future where human and machine intelligence complement each other.
