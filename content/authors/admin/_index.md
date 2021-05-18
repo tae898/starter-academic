@@ -57,15 +57,15 @@ social:
 - icon: youtube
   icon_pack: fab
   link: http://youtube.com/c/tae898
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/tae898/
-- icon: reddit
-  icon_pack: fab
-  link: https://www.reddit.com/user/tae898
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/tae898
+# - icon: instagram
+#   icon_pack: fab
+#   link: https://www.instagram.com/tae898/
+# - icon: reddit
+#   icon_pack: fab
+#   link: https://www.reddit.com/user/tae898
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/tae898
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -81,4 +81,4 @@ email: ""
 # - Visitors`
 ---
 
-I'm an Artificial Intelligence Engineer. As someone said, I also believe that Artificial Intelligence is the new electricity. I believe in the future where human and machine intelligence complement each other.
+Then tomorrow we may all be dead, but how would that be different from any other day? This is a war, and we are soldiers. Death can come for us at any time, in any place. Now consider the alternative. What if I am right? What if the prophecy is true? What if tomorrow the war could be over? Isn't that worth fighting for? Isn't that worth dying for?
