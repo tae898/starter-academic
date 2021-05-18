@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Amsterdam, Netherlands"
   date_start = "2020-09-22"
   date_end = "2024-09-21"
-  description = """I'm part of [the Computational Lexicology & Terminology Lab](http://www.cltl.nl/) and [the Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/)."""
+  description = """Research in multimodal human-robot interaction, using emotion and memory."""
 
 [[experience]]
   title = "Computer Vision Engineer"
