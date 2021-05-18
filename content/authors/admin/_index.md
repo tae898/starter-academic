@@ -21,8 +21,8 @@ role: Artificial Intelligence Engineer
 bio: Artificial Intelligence Engineer
 
 interests:
-- Communicative Robots
-- Language Grounding
+- Human-Robot Interaction
+- Multimodal Deep Learning
 - End-to-End Deep Learning
 
 education:
