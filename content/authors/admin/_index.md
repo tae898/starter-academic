@@ -24,6 +24,7 @@ interests:
 - Human-Robot Interaction
 - Multimodal Deep Learning
 - End-to-End Deep Learning
+- Long-Term Memory
 
 education:
   courses:
@@ -45,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:tae898@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=dJ4ksGoAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tae898
@@ -57,22 +58,22 @@ social:
 - icon: youtube
   icon_pack: fab
   link: http://youtube.com/c/tae898
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/tae898
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/tae898/
 # - icon: reddit
 #   icon_pack: fab
 #   link: https://www.reddit.com/user/tae898
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/tae898
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -81,4 +82,6 @@ email: ""
 # - Visitors`
 ---
 
-Then tomorrow we may all be dead, but how would that be different from any other day? This is a war, and we are soldiers. Death can come for us at any time, in any place. Now consider the alternative. What if I am right? What if the prophecy is true? What if tomorrow the war could be over? Isn't that worth fighting for? Isn't that worth dying for?
+Welcome to my page. I really like artificial intelligence. As long as I can contribute to this amazing technology, I’m totally up for it. It can be software development, publications, coming up with new neural network architectures, brainstorming, etc.
+
+I know this is a huge field, and I know that I can’t work alone. Let me know if you are interested in what I do!
