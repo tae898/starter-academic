@@ -21,10 +21,7 @@ role: Artificial Intelligence Engineer
 bio: Artificial Intelligence Engineer
 
 interests:
-- Human-Robot Interaction
-- Multimodal Deep Learning
-- End-to-End Deep Learning
-- Long-Term Memory
+- Artificial General Intelligence
 
 education:
   courses:
@@ -34,7 +31,7 @@ education:
   - course: MSc in Computer Science 
     institution: Hamburg University of Technology
     year: 2018
-  - course: BSc in Electrical and Electronics Engineering
+  - course: BSc in Electrical Engineering
     institution: Yonsei University
     year: 2015
 
@@ -61,9 +58,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tae898
-# - icon: instagram
-#   icon_pack: fab
-#   link: https://www.instagram.com/tae898/
+- icon: discord
+  icon_pack: fab
+  link: https://discord.gg/NaaU493zNu
 # - icon: reddit
 #   icon_pack: fab
 #   link: https://www.reddit.com/user/tae898
@@ -81,10 +78,6 @@ social:
 # - Researchers
 # - Visitors`
 ---
-The biggest goal in my life is to create a machine that is self-aware. Imagine a world where we live with them. They can help us achieve so many things. 
+The biggest goal in my life is to contribute to artificial general intelligence. It's a pretty big and ambitious goal. But with our collective knowledge in machine learning and cognitive science, I know that we will get there. I can't do this alone. I want to do it together with you. Please don't hesitate to contact me.
 
-I like building things from scratch, so that I can document and open-source them. Eventually, the machine I’ll build will be an embodied robot with DC motors, 3D printed parts, sensors, and a speaker. Ideally, computation should happen locally inside the bot without external servers. Reinforcement learning can teach it how to control its motors properly in a given environment. It’ll have its own language model, like we humans do. There is just so much to consider!
-
-I can’t solve everything at once. I’ll solve them one by one. At the moment, my focus is on the memory of a machine. Endel Tuvling said that through our memory, we are aware of our existence and identity. I want machines to have such a memory system too, just like we humans do. My good friend deep learning will help me get there.
-
-I know this is a huge field, and I know that I can’t work alone. Let me know if you are interested in what I do!
+By clicking the icons below my face, you can check my Google Scholar, LinkedIn, GitHub, YouTube, Twitter, and Discord.
